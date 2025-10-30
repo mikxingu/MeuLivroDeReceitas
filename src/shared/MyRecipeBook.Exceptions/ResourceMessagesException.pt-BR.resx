@@ -120,7 +120,13 @@
   <data name="EMAIL_EMPTY" xml:space="preserve">
     <value>Nome nao pode estar vazio!</value>
   </data>
+  <data name="EMAIL_INVALID" xml:space="preserve">
+    <value>Email nao é valido!</value>
+  </data>
   <data name="NAME_EMPTY" xml:space="preserve">
     <value>Email nao pode estar vazio!</value>
+  </data>
+  <data name="PASSWORD_EMPTY" xml:space="preserve">
+    <value>Senha não pode estar vazia!</value>
   </data>
 </root>
